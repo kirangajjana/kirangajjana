@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KiranGajjana</h1>
-<h3 align="center">A data enthusiast who loves to find insights and solutions from Indiaia</h3>
+<h3 align="center">A data enthusiast who loves to find insights and solutions from India</h3>
 
 - 📫 How to reach me **kiran.gajjana@gmail.com**
 
